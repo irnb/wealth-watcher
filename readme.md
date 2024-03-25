@@ -20,4 +20,8 @@ The WealthWatcher project is currently in the early stages of development. The r
 
 
 
+## Contributing
 
+### Prerequisites
+
+- [Ethers.rs](https://www.gakonst.com/ethers-rs/getting-started/start_a_new_project.html) - A Rust library for interacting with the Ethereum network.
